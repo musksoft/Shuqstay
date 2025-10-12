@@ -1,0 +1,56 @@
+.react-calendar__tile {
+  padding: 1rem !important;
+  font-size: 1.1rem;
+  border-top-left-radius: 1rem;
+  transition: background 0.3s ease;
+}
+
+
+.react-calendar__month-view__weekdays {
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Italiana', serif;
+  color: #8B4513;
+  font-size: 1.3rem;
+}
+
+/* Increase font size and width of calendar */
+.react-calendar {
+  font-size: 1.2rem; /* Increase font size */
+  width: 100% !important; /* Make it full width */
+  max-width: none !important; /* Remove max-width limit */
+  background-color: #fcf0e8;
+}
+
+.react-calendar__tile {
+  padding: 1rem 0.5rem; /* Increase padding for each tile */
+}
+
+.react-calendar__month-view__days {
+  font-size: 1.6rem; /* Increase day number size */
+}
+
+.react-calendar__navigation {
+  font-size: 2rem; /* Bigger nav (month/year header) */
+}
+
+.react-calendar__tile--active {
+  background: #8B4513 !important;
+  color: white !important;
+  border-top-left-radius: 1rem;
+}
+.react-calendar__tile--now {
+  background: transparent !important;     /* Remove yellow background */
+  border: 2px solid #8B4513 !important;   /* Brown border */
+  color: #8B4513 !important;              /* Brown text color */
+  font-weight: bold;
+  border-top-left-radius: 1rem;
+  margin: 2px !important;
+}
+
+.react-calendar__navigation__label {
+  font-size: 4rem !important;   /* Increase month heading size */
+  font-family: 'Italiana', serif; /* Optional: match your header font */
+  color: #8B4513;                 /* Brown to match your palette */
+  font-weight: bold;
+}
