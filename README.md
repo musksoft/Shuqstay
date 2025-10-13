@@ -76,7 +76,7 @@
 
 ---
 
-## Project Structure (Example)
+## Project Structure
 
 /shuqstay-app
 │
