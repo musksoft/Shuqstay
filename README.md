@@ -126,8 +126,8 @@
 ├── .env
 ├── package.json
 ├── vite.config.json
-├── tailwind.config.js
-└── README.md
+├── tailwind.config.js \n
+└── README.md \n
 
 
 
