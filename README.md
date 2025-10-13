@@ -1,6 +1,6 @@
-# RentHub – Rental Property Platform (React + Supabase)
+# ShuqStay – Rental Property Platform (React + Supabase)
 
-**RentHub** is a modern full-stack web application built with **React** and **Supabase** that connects tenants and landlords in a seamless rental experience. The platform includes role-based access for **Tenants**, **Landlords**, and **Admins**, allowing personalized dashboards, property listings, messaging, and more.
+**ShuqStay** is a modern full-stack web application built with **React** and **Supabase** that connects tenants and landlords in a seamless rental experience. The platform includes role-based access for **Tenants**, **Landlords**, and **Admins**, allowing personalized dashboards, property listings, messaging, and more.
 
 ---
 
